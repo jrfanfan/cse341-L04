@@ -1,12 +1,12 @@
 {
   "openapi" : "3.0.0",
   "info" : {
-    "title" : "ContactsAPI",
-    "description" : "Lesson4",
-    "version" : "1.1.0"
+    "title" : "Contacts",
+    "description" : "lesson4",
+    "version" : "1.0.1"
   },
   "servers" : [ {
-    "url" : "https://virtserver.swaggerhub.com/FAN19005/Contacts/1.1.0",
+    "url" : "https://virtserver.swaggerhub.com/FAN19005/ContactsAPI/1.0.1",
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "paths" : { },
