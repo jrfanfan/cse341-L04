@@ -6,7 +6,7 @@ routes.use(
   '/',
   (docData = (req, res) => {
     let docData = {
-      documentationURL: '',
+      documentationURL: 'https://explore.swaggerhub.com/',
     };
     res.send(docData);
   })

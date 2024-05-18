@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jrfanfan/cse341-L04"
   },
   "author": "Fanfan Jean Renel",
   "license": "ISC",
   "bugs": {
     "url": "http://localhost:8080"
   },
-  "homepage": "",
+  "homepage": "https://cse341-lesson2-nbpt.onrender.com/",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
@@ -29,3 +29,4 @@
   },
   "keywords": []
 }
+
